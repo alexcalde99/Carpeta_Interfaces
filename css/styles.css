@@ -1,0 +1,15 @@
+span{
+    color: white;
+}
+.navbar-nav{
+ font-size: large;
+}
+ul > li:hover{
+    background-color: #00B4FF;
+}
+.footer{
+    width: 100%;
+    background-color: black;
+    padding: 5%;
+}
+
